@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/iamafile -f
+tmp/iamafile -s /dev/sda
